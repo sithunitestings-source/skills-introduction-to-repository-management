@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sithunitestings-source
+/src/backend/database.py      @sithunitestings-source
+/src/backend/routers/auth.py  @sithunitestings-source
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sithunitestings-source
